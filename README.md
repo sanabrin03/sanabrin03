@@ -1,7 +1,7 @@
 # ¡Hola! Soy Samuel 👋
 
 ### 👨‍💻 Sobre mí
-* 🎓 Estudiante de Computación de la Universidad Simon Bolivar apasionado por la automatización, análisis de datos y la creación de páginas.
+* 🎓 Estudiante de Ingeniería de la Computación en la Universidad Simon Bolivar apasionado por la automatización, análisis de datos y la creación de páginas.
 * 🐍 Mis lenguajes principales son **Python** y estoy aprendiendo **Java y JS**.
 * 🖥️ Entusiasta del hardware de alto rendimiento. Actualmente armando un equipo con un Ryzen 9 7900X
 * ⚙️ Me interesa entender cómo funcionan los sistemas a bajo nivel, desde la programación estructurada hasta las interrupciones en la arquitectura de computadoras.
