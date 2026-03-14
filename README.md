@@ -1,16 +1,16 @@
-## Hi there 👋
+# ¡Hola! Soy Samuel 👋
 
-<!--
-**sanabrin03/sanabrin03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 Sobre mí
+* 🎓 Estudiante de Computación de la Universidad Simon Bolivar apasionado por la automatización, análisis de datos y la creación de páginas.
+* 🐍 Mis lenguajes principales son **Python** y estoy aprendiendo **Java y JS**.
+* 🖥️ Entusiasta del hardware de alto rendimiento. Actualmente armando un equipo con un Ryzen 9 7900X
+* ⚙️ Me interesa entender cómo funcionan los sistemas a bajo nivel, desde la programación estructurada hasta las interrupciones en la arquitectura de computadoras.
 
-Here are some ideas to get you started:
+### 🛠️ Mis Herramientas y Tecnologías
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### 🚀 Mis Proyectos Destacados
+* 📨 **[Automatizador de Correos](https://github.com/sanabrin03/Automatizador-de-correos):** Script interactivo en Python para el envío masivo de correos personalizados con soporte para múltiples archivos adjuntos y control de límites de servidor.
+
